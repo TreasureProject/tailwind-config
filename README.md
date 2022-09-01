@@ -7,7 +7,7 @@ Treasure's resusable configuration preset. This can be very useful for teams tha
 Install `@treasure/tailwind-config` with npm (or yarn)
 
 ```bash
-npm install -D @treasure/tailwind-config // yarn add @treasure/tailwind-config
+npm install -D @treasure-project/tailwind-config // yarn add @treasure-project/tailwind-config
 ```
 
 In `tailwind.config.js`, add this line
