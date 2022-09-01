@@ -1,0 +1,28 @@
+{
+  "name": "@treasure/tailwind-config",
+  "version": "1.0.0",
+  "description": "",
+  "repository": "https://github.com/TreasureProject/tailwind-config",
+  "bugs": {
+    "url": "https://github.com/TreasureProject/tailwind-config/issues"
+  },
+  "homepage": "https://github.com/TreasureProject/tailwind-config#readme",
+  "publishConfig": {
+    "access": "public"
+  },
+  "main": "index.js",
+  "license": "MIT",
+  "author": "Treasure <info@treasure.lol>",
+  "keywords": [
+    "treasure",
+    "tailwind",
+    "config"
+  ],
+  "scripts": {
+    "tailwind-config-viewer": "tailwind-config-viewer"
+  },
+  "devDependencies": {
+    "tailwind-config-viewer": "^1.7.1",
+    "tailwindcss": "^3.1.8"
+  }
+}
