@@ -1,4 +1,4 @@
-# @treasure/tailwind-config
+# @treasure-project/tailwind-config
 
 Treasure's resusable configuration preset. This can be very useful for teams that manage multiple Tailwind projects for the same brand where they want a single source of truth for colors, fonts, and other common customizations.
 
