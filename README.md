@@ -4,16 +4,16 @@ Treasure's resusable configuration preset. This can be very useful for teams tha
 
 ## Installation
 
-Install `@treasure/tailwind-config` with npm (or yarn)
+Install `@treasure-project/tailwind-config` with npm (or yarn)
 
 ```bash
-npm install -D @treasure/tailwind-config // yarn add @treasure/tailwind-config
+npm install -D @treasure-project/tailwind-config // yarn add @treasure-project/tailwind-config
 ```
 
 In `tailwind.config.js`, add this line
 
 ```js
-presets: [require('@treasure/tailwind-config')],
+presets: [require('@treasure-project/tailwind-config')],
 ```
 
 You will now be able to access all the colors, width, etc exported in `tailwind-config`.
@@ -23,7 +23,7 @@ If you also wish to import the fonts, add this to the root of your app
 **!!Importing CSS files that reference other static assets don't work in remix yet. Until [this](https://github.com/remix-run/remix/issues/1153) is solved!!**
 
 ```js
-import "@treasure/tailwind-config/fonts.css";
+import "@treasure-project/tailwind-config/fonts.css";
 ```
 
 Now you can use the font via tailwind or from a stylesheet like solved
