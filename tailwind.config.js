@@ -16,7 +16,7 @@ module.exports = {
       colors: {
         twitter: "rgb(29, 155, 240)",
         discord: "#5865F2",
-        base: {
+        night: {
           100: "#E7E8E9",
           200: "#CFD1D4",
           300: "#B7BABE",
