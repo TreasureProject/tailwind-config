@@ -42,3 +42,11 @@
   font-named-instance: "Italic";
   src: url("./fonts/ABCWhyte-RegularItalic.otf") format("opentype");
 }
+
+@font-face {
+  font-family: 'Millik';
+  font-style: bold;
+  font-display: swap;
+  src: url('./fonts/Millik.woff2')
+    format('woff2');
+}
